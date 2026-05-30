@@ -1,4 +1,4 @@
-Veggio — Case Study
+Veggio - Case Study
 Veggio (vego, Australian slang for vegetarian, crossed with -gio, the Italian first-person singular: I eat vegetables.)
 
 The problem
